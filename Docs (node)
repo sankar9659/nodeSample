@@ -1,0 +1,31 @@
+Node Documenations:
+
+Node is a run time environment for executing javascript outside of the browser. if we want to communicate with browser we need to work with http servers.
+Node receives a http request from the browser and provide http response to the browser
+
+Express.js: (https://www.youtube.com/watch?v=jogv2aB4NjI&t=8s)
+1. Node js does not support for request handling, http methods,serving files. So we used express.js
+2. It manages routing, http methods and error handling etc.
+3. Express js is a node js framework for building API's, web and mobile apps.
+4. High performance, fast and light weight, unopinionated. and asynchronous.
+5. Its Server side scripting language.
+
+6. Can Create HTML templates.
+7. Easy to debug the bugs.
+
+Disadvantages:
+1. Issues with callbacks
+2. Error message not helpful
+
+
+MiddleWare: (https://www.youtube.com/watch?v=lY6icfhap2o)
+Middleware is a request handler, 
+with the help of Middleware we can access and modify the req and response.
+Ex: authentication process.
+
+REPL - Read Evaluate Print Loop
+
+NPX is a tool which used to execute packags, It comes with npm and no need to install.
+
+
+
